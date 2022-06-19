@@ -1,0 +1,27 @@
+*{
+    text-align: center;  
+   
+}
+
+h1{
+    color: rgb(68, 178, 178);
+}
+h3{
+    color: rgb(40, 152, 208);
+}
+body{
+    background-image: url(../css/images/backgrround.jpg);
+    background-position: center;
+}
+.main{
+    
+    background-color: rgb(202, 216, 228);
+    margin-left: 540px;
+    margin-right: 540px;
+    margin-top: 220px;
+    margin-bottom: 220px;
+    border: 2px solid cornflowerblue;
+}
+button{
+    background-color: rgb(68, 178, 178);
+}
